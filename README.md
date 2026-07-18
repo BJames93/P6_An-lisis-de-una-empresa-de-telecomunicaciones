@@ -12,11 +12,9 @@ El objetivo principal de este proyecto es realizar un análisis exploratorio de 
 ## 📊 Datasets Utilizados
 El análisis se basa en el dataset de perfiles de usuario (user_profile), el cual contiene información clave como:
 
-Datos demográficos: age (edad) del usuario.
-
-Patrones de uso: cant_mensajes, cant_llamadas y cant_minutos_llamada.
-
-Información de servicio: plan (tipo de suscripción: Básico/Premium) y segmentaciones calculadas (grupo_uso, grupo_edad).
+- Datos demográficos: age (edad) del usuario.
+- Patrones de uso: cant_mensajes, cant_llamadas y cant_minutos_llamada.
+- Información de servicio: plan (tipo de suscripción: Básico/Premium) y segmentaciones calculadas (grupo_uso, grupo_edad).
 
 ## 🔍 Etapas del Análisis
 El flujo de trabajo se divide en las siguientes etapas técnicas:
