@@ -19,15 +19,15 @@ El análisis se basa en el dataset de perfiles de usuario (user_profile), el cua
 ## 🔍 Etapas del Análisis
 El flujo de trabajo se divide en las siguientes etapas técnicas:
 
-Limpieza y Preparación: Manejo de valores nulos, especialmente en la columna de minutos de llamadas, asegurando la integridad del dataset.
+1. Limpieza y Preparación: Manejo de valores nulos, especialmente en la columna de minutos de llamadas, asegurando la integridad del dataset.
 
-Análisis Exploratorio (EDA): Visualización de las distribuciones de uso mediante histogramas y análisis de densidad para entender el comportamiento general.
+2. Análisis Exploratorio (EDA): Visualización de las distribuciones de uso mediante histogramas y análisis de densidad para entender el comportamiento general.
 
-Detección de Outliers: Identificación de casos extremos mediante diagramas de caja (boxplots) y validación estadística utilizando el método del Rango Intercuartílico (IQR).
+3. Detección de Outliers: Identificación de casos extremos mediante diagramas de caja (boxplots) y validación estadística utilizando el método del Rango Intercuartílico (IQR).
 
-Segmentación de Clientes: Creación de nuevas variables categóricas para clasificar a los usuarios según su nivel de uso y grupo de edad.
+4. Segmentación de Clientes: Creación de nuevas variables categóricas para clasificar a los usuarios según su nivel de uso y grupo de edad.
 
-Análisis Ejecutivo: Síntesis de hallazgos para la toma de decisiones, proponiendo recomendaciones estratégicas para el negocio.
+5. Análisis Ejecutivo: Síntesis de hallazgos para la toma de decisiones, proponiendo recomendaciones estratégicas para el negocio.
 
 ## 🚀 Cómo ejecutar el Notebook
 Este proyecto está diseñado para ejecutarse de forma sencilla en entornos de notebook:
