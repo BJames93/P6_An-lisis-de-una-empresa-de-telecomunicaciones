@@ -4,11 +4,12 @@ Proyecto Tripleten proyecto 6
 **Sprint 7**
 Este repositorio contiene el análisis realizado de una empresa de telecomunicaciones "Connecta Tel" con operaciones en Mexico y Colombia. 
 
-Proyecto de Análisis de Datos: ConnectaTel
-🎯 Objetivo del Proyecto
+# Proyecto de Análisis de Datos: ConnectaTel
+
+## 🎯 Objetivo del Proyecto
 El objetivo principal de este proyecto es realizar un análisis exploratorio de datos (EDA) y una segmentación de clientes para la empresa ConnectaTel. A través de este análisis, buscamos identificar patrones de consumo en servicios de voz y mensajería, detectar comportamientos atípicos (outliers) y categorizar a los usuarios en segmentos clave para proponer estrategias comerciales informadas.
 
-📊 Datasets Utilizados
+## 📊 Datasets Utilizados
 El análisis se basa en el dataset de perfiles de usuario (user_profile), el cual contiene información clave como:
 
 Datos demográficos: age (edad) del usuario.
@@ -17,7 +18,7 @@ Patrones de uso: cant_mensajes, cant_llamadas y cant_minutos_llamada.
 
 Información de servicio: plan (tipo de suscripción: Básico/Premium) y segmentaciones calculadas (grupo_uso, grupo_edad).
 
-🔍 Etapas del Análisis
+## 🔍 Etapas del Análisis
 El flujo de trabajo se divide en las siguientes etapas técnicas:
 
 Limpieza y Preparación: Manejo de valores nulos, especialmente en la columna de minutos de llamadas, asegurando la integridad del dataset.
@@ -30,7 +31,7 @@ Segmentación de Clientes: Creación de nuevas variables categóricas para clasi
 
 Análisis Ejecutivo: Síntesis de hallazgos para la toma de decisiones, proponiendo recomendaciones estratégicas para el negocio.
 
-🚀 Cómo ejecutar el Notebook
+## 🚀 Cómo ejecutar el Notebook
 Este proyecto está diseñado para ejecutarse de forma sencilla en entornos de notebook:
 
 Google Colab (Recomendado):
@@ -47,7 +48,7 @@ Instala las dependencias necesarias: pip install pandas seaborn matplotlib.
 
 Abre el archivo con Jupyter Notebook o VS Code.
 
-🛠️ Guía de Reproducción
+## 🛠️ Guía de Reproducción
 Para reproducir los resultados obtenidos:
 
 Clona este repositorio o descarga el archivo S7 Version-Estudiante-Project-ConnectaTel.ipynb.
