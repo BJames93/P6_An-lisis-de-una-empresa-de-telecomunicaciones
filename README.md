@@ -19,32 +19,24 @@ El análisis se basa en el dataset de perfiles de usuario (user_profile), el cua
 ## 🔍 Etapas del Análisis
 El flujo de trabajo se divide en las siguientes etapas técnicas:
 
-1. Limpieza y Preparación: Manejo de valores nulos, especialmente en la columna de minutos de llamadas, asegurando la integridad del dataset.
+1. **Limpieza y Preparación:** Manejo de valores nulos, especialmente en la columna de minutos de llamadas, asegurando la integridad del dataset.
 
-2. Análisis Exploratorio (EDA): Visualización de las distribuciones de uso mediante histogramas y análisis de densidad para entender el comportamiento general.
+2. **Análisis Exploratorio (EDA):** Visualización de las distribuciones de uso mediante histogramas y análisis de densidad para entender el comportamiento general.
 
-3. Detección de Outliers: Identificación de casos extremos mediante diagramas de caja (boxplots) y validación estadística utilizando el método del Rango Intercuartílico (IQR).
+3. **Detección de Outliers:** Identificación de casos extremos mediante diagramas de caja (boxplots) y validación estadística utilizando el método del Rango Intercuartílico (IQR).
 
-4. Segmentación de Clientes: Creación de nuevas variables categóricas para clasificar a los usuarios según su nivel de uso y grupo de edad.
+4. **Segmentación de Clientes:** Creación de nuevas variables categóricas para clasificar a los usuarios según su nivel de uso y grupo de edad.
 
-5. Análisis Ejecutivo: Síntesis de hallazgos para la toma de decisiones, proponiendo recomendaciones estratégicas para el negocio.
+5. **Análisis Ejecutivo:** Síntesis de hallazgos para la toma de decisiones, proponiendo recomendaciones estratégicas para el negocio.
 
 ## 🚀 Cómo ejecutar el Notebook
 Este proyecto está diseñado para ejecutarse de forma sencilla en entornos de notebook:
 
-Google Colab (Recomendado):
+**Entorno Local:**
 
-Haz clic en el botón "Open in Colab" si está disponible, o sube el archivo .ipynb directamente a Google Colab.
-
-Asegúrate de cargar el archivo de datos necesario en el entorno de archivos de Colab.
-
-Entorno Local:
-
-Asegúrate de tener instalada una distribución de Python (como Anaconda) o un entorno virtual.
-
-Instala las dependencias necesarias: pip install pandas seaborn matplotlib.
-
-Abre el archivo con Jupyter Notebook o VS Code.
+- Asegúrate de tener instalada una distribución de Python (como Anaconda) o un entorno virtual.
+- Instala las dependencias necesarias: pip install pandas seaborn matplotlib.
+- Abre el archivo con Jupyter Notebook o VS Code.
 
 ## 🛠️ Guía de Reproducción
 Para reproducir los resultados obtenidos:
