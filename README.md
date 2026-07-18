@@ -1,4 +1,4 @@
-# P6_An-lisis-de-una-empresa-de-telecomunicaciones
+# P6_Analisis-de-una-empresa-de-telecomunicaciones
 Proyecto Tripleten proyecto 6
 
 **Sprint 7**
