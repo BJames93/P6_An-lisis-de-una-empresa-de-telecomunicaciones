@@ -41,10 +41,7 @@ Este proyecto está diseñado para ejecutarse de forma sencilla en entornos de n
 ## 🛠️ Guía de Reproducción
 Para reproducir los resultados obtenidos:
 
-Clona este repositorio o descarga el archivo S7 Version-Estudiante-Project-ConnectaTel.ipynb.
-
-Ejecuta las celdas de importación de librerías primero.
-
-Asegúrate de ejecutar las celdas de limpieza de datos antes de intentar generar las visualizaciones o los cálculos de límites IQR, ya que el orden de ejecución es fundamental para evitar errores de tipo KeyError.
-
-Sigue la estructura de bloques numerados del notebook para replicar cada uno de los gráficos presentados.
+- Clona este repositorio o descarga el archivo S7 Version-Estudiante-Project-ConnectaTel.ipynb.
+- Ejecuta las celdas de importación de librerías primero.
+- Asegúrate de ejecutar las celdas de limpieza de datos antes de intentar generar las visualizaciones o los cálculos de límites IQR, ya que el orden de ejecución es fundamental para evitar errores de tipo KeyError.
+- Sigue la estructura de bloques numerados del notebook para replicar cada uno de los gráficos presentados.
